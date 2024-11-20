@@ -10,8 +10,6 @@ Este proyecto es una aplicación GUI en Python para gestionar encuestas relacion
 - MySQL
 - Librerías adicionales: Tkinter, Pandas, Matplotlib, mysql-connector-python, openpyxl
 
-## Instalación
-1. Clona este repositorio:
-   ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd ProyectoEncuestas
+## Instalación conector Base de Datos
+Conectar con la base de datos:
+   -pip install pandas matplotlib mysql-connector-python openpyxl
