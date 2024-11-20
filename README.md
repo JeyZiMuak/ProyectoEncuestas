@@ -38,7 +38,7 @@ git clone <URL_DEL_REPOSITORIO>
 cd ProyectoEncuestas
 
 ---
-## 📋 **Instalación**
+ 📋 Instalación
  2. Instala el conector
 Conectar con la base de datos:
    -pip install pandas matplotlib mysql-connector-python openpyxl
