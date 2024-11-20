@@ -37,14 +37,12 @@ Este proyecto es una aplicación GUI desarrollada en Python para gestionar encue
 git clone <URL_DEL_REPOSITORIO>
 cd ProyectoEncuestas
 
-### 2. Instalación conector Base de Datos
+---
+## 📋 **Instalación**
+ 2. Instala el conector
 Conectar con la base de datos:
    -pip install pandas matplotlib mysql-connector-python openpyxl
 
-
-🖼️ Capturas de Pantalla
-Pantalla Principal
-![image](https://github.com/user-attachments/assets/5c7c9e4d-8849-4ca0-b27b-5d6a954279fb)
 
 🧪 Pruebas y Funcionalidades
 CRUD:
